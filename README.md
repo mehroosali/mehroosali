@@ -2,7 +2,7 @@
     <img align='right' src='resources/developer.gif' width='300"' height='200"'>
 
 - I am currently pursuing my Masters in Computer Science at the <a href="https://www.utdallas.edu/"  target="_blank"> University of Texas at Dallas. </a> 
-- I have interned at Amazon as Data Engineer this past summer where I gained knowledge and experience working with design and development of streaming data pipelines. 
+- I have interned at <a href="https://amazon.com/" target="_blank"> Amazon</a> as Data Engineer this past summer where I gained knowledge and experience working with design and development of streaming data pipelines. 
 - I have previously worked as a Data Engineer for <a href="https://www.onwardgroup.com/" target="_blank"> Onward Technologies</a> which is a global IT service provider in domains such as data analytics, data science, Artificial Intelligence (AI) and Machine Learning (ML). Before that I was working with <a href="https://www.cognizant.com/" target="_blank"> Cognizant</a> on their flagship Core Banking and Insurance customer - Suncorp.
 - Currently I am learning <a href="https://databricks.com/" target="_blank"> Databricks</a> which is a big data processing platform for combining the best of data warehouses and data lakes into a lakehouse architecture.
 - I am interested in Big Data Engineering, Cloud Data Warehousing, Devops and Backend Design and Development.
@@ -16,6 +16,9 @@
     </a>
     <a title="Python" href="https://www.python.org/" target="_blank">
         <img src="resources/python.svg" alt="python" width="45" height="45" />
+    </a>
+        <a title="SQL" href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+        <img src="https://www.thedataschool.com.au/wp-content/uploads/2022/12/Sql_data_base_with_logo.png" alt="sql" width="45" height="45" />
     </a>
      <a title="Hadoop" href="https://hadoop.apache.org/" target="_blank">
         <img src="resources/hadoop.svg" alt="hadoop" width="45" height="45" />
@@ -37,6 +40,12 @@
     </a>
      <a title="Nifi" href="https://nifi.apache.org/" target="_blank">
         <img src="resources/nifi.svg" alt="nifi" width="50" height="48" />
+    </a>
+        <a title="Docker" href="https://www.docker.com/" target="_blank">
+        <img src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" alt="docker" width="45" height="45" />
+    </a>
+          <a title="Intelij" href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intelij" width="45" height="45" />
     </a>
 </p>
 <p align="left">
@@ -64,8 +73,18 @@
     <a title="Postman" href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
     </a>
-    <a title="Linux" href="" target="_blank">
+    <a title="Linux" href="https://www.linux.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="45" height="45" />
+    </a>
+        <a title="databricks" href="https://www.databricks.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" alt="databricks" width="45" height="45" />
+    </a>
+        </a>
+        <a title="jenkins" href="https://www.jenkins.io/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" alt="jenkins" width="45" height="45" />
+    </a>
+            <a title="vscode" href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="45" height="45" />
     </a>
 </p>
 
@@ -78,9 +97,17 @@
 </p>
       
 <h2>🤝 Let's stay connected!</h2>
-<a href="https://www.linkedin.com/in/mehroosali/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/mehroosali" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  <a href="https://leetcode.com/mehroosali/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>
-    <br/>
-    <br/>
+<a href="https://www.linkedin.com/in/mehroosali/" target="_blank">
+<img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="Linkedin" />
+</a> &nbsp;  
+<a href="https://twitter.com/mehroosali" target="_blank">
+<img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="Twitter"/>
+</a>  &nbsp;  
+<a href="https://leetcode.com/mehroosali/" target="_blank">
+<img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title="Leetcode"/></a>&nbsp;  
+<a href="https://www.facebook.com/mehroosali" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/640px-Facebook_f_logo_%282021%29.svg.png" width=40px height=40px title="Facebook"/></a>&nbsp; 
+
 <a href="https://github.com/mehroosali/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mehroosali">
 </a>
