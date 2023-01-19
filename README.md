@@ -74,7 +74,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehroosali&theme=radical&show_icons=true" alt="Mehroos's Github Stats" width="45%"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mehroosali&theme=dark" width="45%">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehroosali&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
+    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehroosali&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
 </p>
       
 <h2>🤝 Let's stay connected!</h2>
