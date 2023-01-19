@@ -5,7 +5,7 @@
 - I have interned at <a href="https://amazon.com/" target="_blank"> Amazon</a> as Data Engineer this past summer where I gained knowledge and experience working with design and development of streaming data pipelines. 
 - I have previously worked as a Data Engineer for <a href="https://www.onwardgroup.com/" target="_blank"> Onward Technologies</a> which is a global IT service provider in domains such as data analytics, data science, Artificial Intelligence (AI) and Machine Learning (ML). Before that I was working with <a href="https://www.cognizant.com/" target="_blank"> Cognizant</a> on their flagship Core Banking and Insurance customer - Suncorp.
 - Currently I am learning <a href="https://databricks.com/" target="_blank"> Databricks</a> which is a big data processing platform for combining the best of data warehouses and data lakes into a lakehouse architecture.
-- I am interested in Big Data Engineering, Cloud Data Warehousing, Devops and Backend Design and Development.
+- I am interested in Big Data Engineering, Cloud Data Warehousing, Devops and Full Stack Development.
 - 📩 Feel free to reach me at mehroosali@gmail.com.
  
 <h2>🛠 My Toolkit</h2>
