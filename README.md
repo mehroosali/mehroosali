@@ -107,7 +107,8 @@
 <img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title="Leetcode"/></a>&nbsp;  
 <a href="https://www.facebook.com/mehroosali" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/640px-Facebook_f_logo_%282021%29.svg.png" width=40px height=40px title="Facebook"/></a>&nbsp; 
-
+<br>
+<br>
 <a href="https://github.com/mehroosali/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mehroosali">
 </a>
