@@ -1,7 +1,8 @@
 <h2> < Hello World, I'm <a href="https://www.linkedin.com/in/mehroosali/" target="_blank"> Mehroos Ali</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h2>
     <img align='right' src='resources/developer.gif' width='300"' height='200"'>
 
-- I am currently persuing my Masters in Computer Science at the <a href="https://www.utdallas.edu/"  target="_blank"> University of Texas at Dallas. </a> 
+- I am currently pursuing my Masters in Computer Science at the <a href="https://www.utdallas.edu/"  target="_blank"> University of Texas at Dallas. </a> 
+- I have interned at Amazon as Data Engineer this past summer where I gained knowledge and experience working with design and development of streaming data pipelines. 
 - I have previously worked as a Data Engineer for <a href="https://www.onwardgroup.com/" target="_blank"> Onward Technologies</a> which is a global IT service provider in domains such as data analytics, data science, Artificial Intelligence (AI) and Machine Learning (ML). Before that I was working with <a href="https://www.cognizant.com/" target="_blank"> Cognizant</a> on their flagship Core Banking and Insurance customer - Suncorp.
 - Currently I am learning <a href="https://databricks.com/" target="_blank"> Databricks</a> which is a big data processing platform for combining the best of data warehouses and data lakes into a lakehouse architecture.
 - I am interested in Big Data Engineering, Cloud Data Warehousing, Devops and Backend Design and Development.
@@ -71,7 +72,7 @@
 <h2>🏆 Github Stats</h2>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mehroosali&theme=radical&show_icons=true" alt="Mehroos's Github Stats" width="45%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehroosali&theme=radical&show_icons=true" alt="Mehroos's Github Stats" width="45%"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mehroosali&theme=dark" width="45%">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehroosali&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
 </p>
